@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\ckinnard\Documents\AndroidProjects2\1.1.1HelloWorldApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="71c778c60941010c9d0b003d28fcc00af20498f3">
+        <dex dex="C:\Users\ckinnard\Documents\AndroidProjects2\1.1.1HelloWorldApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_99001dc8d70292330b8c97c09fc429e774436438\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ckinnard\Documents\AndroidProjects2\1.1.1HelloWorldApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\ckinnard\Documents\AndroidProjects2\1.1.1HelloWorldApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.1_3cb130db886ca29a222bc6c078ec51e3af324db0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ckinnard\Documents\AndroidProjects2\1.1.1HelloWorldApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\ckinnard\Documents\AndroidProjects2\1.1.1HelloWorldApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.0.1_47ede126c70dc01616392066d9c911635eef6a18\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ckinnard\Documents\AndroidProjects2\1.1.1HelloWorldApp\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="C:\Users\ckinnard\Documents\AndroidProjects2\1.1.1HelloWorldApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.0.1_bbb9237e7f821fa907f4df10a396da506f0cc87f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ckinnard\Documents\AndroidProjects2\1.1.1HelloWorldApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\ckinnard\Documents\AndroidProjects2\1.1.1HelloWorldApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.1_4317685971b3b9c06d8dc8c4d745eea0a7c8cd84\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ckinnard\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\ckinnard\Documents\AndroidProjects2\1.1.1HelloWorldApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.1_0d23fca663b27e960e729d971b7b841c58e86d0a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ckinnard\Documents\AndroidProjects2\1.1.1HelloWorldApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="28573761103702cea655b017a8fb79b605b16b0c">
+        <dex dex="C:\Users\ckinnard\Documents\AndroidProjects2\1.1.1HelloWorldApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1add2ccc5c0cb54fae4417ef885cc651c4f376c5\classes.dex" />
+    </item>
+
+</items>
